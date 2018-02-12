@@ -8,8 +8,7 @@ I live in the capital of Bulgaria - Sofia.
 
 Three of my favorite are:
 
-- *Table tennis*
-- 
+- *Table tennis* - watching and playing
 - *Cooking* - just experimenting
 - *Trecking* - going in the mountains
 
