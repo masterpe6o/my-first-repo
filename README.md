@@ -20,4 +20,4 @@ Three of my favorite are:
 
 ### Contact
 
-The best way to get in touch with me is [via e-mail ]p.chervenski@gmail.com.
+The best way to get in touch with me is via [e-mail](p.chervenski@gmail.com).
