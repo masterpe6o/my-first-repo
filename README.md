@@ -1,28 +1,24 @@
-# This is a large heading
+# Petar Chervenski
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the capital of Bulgaria - Sofia.
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite are:
 
-Here is `some code` in the middle of a sentence.
+- *Table tennis*
+- 
+- *Cooking* - just experimenting
+- *Trecking* - going in the mountains
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Moussaka.
+2. Potatoes.
+3. Tarator.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is [via e-mail ]p.chervenski@gmail.com.
